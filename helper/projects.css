@@ -1,0 +1,122 @@
+.project-section{
+    width: 100%;
+    height: auto;
+    min-height: 88vh;
+    /* background-color: cyan; */
+}
+.project-section{
+    display: flex;
+    flex-direction: column;
+}
+.project-item{
+    border: 2px solid rgb(158, 227, 227);
+    border-radius: 12px;
+    padding: 15px 15px;
+    box-shadow: 10px 10px 20px 10px rgba(112, 102, 102, .5);
+    margin-bottom: 30px;
+}
+.project-section{
+    margin-top: 15px;
+}
+.last-one{
+    margin-bottom: 35px;
+    border: none;
+    box-shadow: none;
+}
+.back button{
+    border:none;
+    width: 5rem;
+    border:transparent;
+}
+.git-link{
+    font-size: 2.5vh;
+}
+body a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+/* @media (max-width: 768px){
+    .project-section{
+        height: 46rem;
+    }
+}
+/* @media (max-width: 576px){
+    .project-section{
+        height: 48rem;
+    }
+} */
+/*
+@media (max-width: 476px){
+    .project-section{
+         
+        height: 50rem;
+    }
+}
+@media (max-width: 392px){
+    .project-section{
+         
+        height: 55rem;
+    }
+}
+@media (max-width: 359px){
+    .project-section{
+         
+        height: 60rem;
+    }
+}
+@media (max-width: 309px){
+    .project-section{
+         
+        height: 65rem;
+    }
+}
+.project-btn{
+    height: 2em;
+    width: 4em;
+    font-size: 5em;
+}
+*/
